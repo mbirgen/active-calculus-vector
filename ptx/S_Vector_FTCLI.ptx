@@ -159,7 +159,7 @@
     <task xml:id="PA_12_4_part7">
       <introduction>
       <p>
-        When finding the most general antiderivative for a function of
+        When finding the most general anti-derivative for a function of
         one variable, we add a constant of integration (usually
         denoted by <m>C</m>) to capture the fact that any constant
         will become <m>0</m> through differentiation.
@@ -639,7 +639,7 @@
         a function <m>f</m> on <m>D</m> by using the vector field
         <m>\vF</m> and line integrals, much like the Second
         Fundamental Theorem of Calculus allows us to define an
-        antiderivative of a continuous function using a definite
+        anti-derivative of a continuous function using a definite
         integral. To that end, we assign <m>f(x_0,y_0)</m> an
         arbitrary value. (Setting <m>f(x_0,y_0)=0</m> is probably
         convenient, but we won't explicitly tie our hands. Just assume
